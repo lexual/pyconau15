@@ -1,0 +1,18 @@
+name: ads
+dependencies:
+- python=3.4
+- numpy
+- scipy
+- scikit-learn
+- pandas
+- xray
+- pillow
+- ipython
+- ipython-notebook
+- matplotlib
+- seaborn
+- pip:
+  - theano
+  - keras
+  - tweepy
+  - word2vec
